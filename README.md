@@ -43,17 +43,17 @@ Check out my personal portfolio with project showcases, visuals, and detailed wo
 - Enemy logic (states, debuffs, behaviours)  
 - UI systems (HUD, world-space UI, damage indicators)  
 - Object Pooling (custom + Unity built-in)  
-- DOTween animations pipelines  
+- DOTween animation pipelines  
 
 ### **Architecture & Patterns**
 - SOLID principles  
 - Strategy, State, Factory, Abstract Factory, Decorator, MVP/MVC  
-- Modular architecture for multi-mini-game projects  
+- Modular architecture for multi–mini-game projects  
 - Data-driven design (ScriptableObject layers)  
 - Custom UnityEditor tools & inspector extensions  
 
 ### **Tools & Development**
-- Git with submodules & multi-repo workflows  
+- Git with submodules & multi-repository workflows  
 - CI/CD pipelines for Unity:
   - GitLab CI Unity builds  
   - Android AAB build pipelines  
@@ -82,6 +82,55 @@ Check out my personal portfolio with project showcases, visuals, and detailed wo
 
 ---
 
+## 🧩 Professional Workflow & Engineering Experience
+
+### **Project Architecture & Multi-Project Infrastructure**
+- Designed and maintained a **multi–mini-game architecture** with shared systems and assets  
+- Developed and supported a **CommonAssets framework** for reusable gameplay and UI modules  
+- Wrote technical specifications and architecture guidelines for multiple Unity projects  
+- Standardized project folder structure, meta-file policies, and asset workflows  
+- Authored documentation for UI standards, prefab structure, data flow, and code style
+
+### **GitLab & Repository Management**
+- Experienced with **GitLab Issues and project boards**  
+- Implemented and maintained **Git submodules** for shared content  
+- Wrote documentation for integrating, updating, and managing submodules  
+- Designed repository structures for scalable team workflows  
+- Created release/versioning guidelines across multiple Unity projects
+
+### **Technical Documentation**
+- Authored detailed internal documentation for:
+  - Build & deployment workflows  
+  - Fastlane configuration (Android/iOS)  
+  - GitLab CI templates and shared scripts  
+  - Submodule management  
+  - Unity project setup (Android/iOS)  
+  - Consistent architecture principles  
+- Maintained onboarding and workflow documentation for developers
+
+### **Build Systems & CI/CD**
+- Built and maintained **full CI/CD pipelines for Unity**:  
+  - Android → AAB generation & Google Play delivery  
+  - iOS → Xcodebuild, IPA export, and TestFlight upload  
+  - CocoaPods installation & auto-setup  
+  - Fastlane automation for both platforms  
+  - Gulp tasks for Unity batchmode builds  
+- Managed certificates, provisioning profiles, API keys, and secure variables  
+- Solved complex signing, linking, and dependency issues on iOS builds
+
+### **Remote Development & Deployment**
+- Worked with remote macOS build machines through multiple connection clients  
+- Performed full iOS build cycles remotely (Unity → Xcode → IPA → TestFlight)  
+- Set up and maintained developer environments used across the team  
+
+### **Team & Collaboration**
+- Provided guidance on Unity architecture and workflow to teammates  
+- Created shared standards for gameplay architecture and Zenject usage  
+- Unified code style and asset conventions across repositories  
+- Improved team onboarding with structured documentation and templates
+
+---
+
 ## 📌 Featured Projects
 
 ### 🔫 BulletConveyor ⭐ Main Project — Actively Developed
@@ -96,7 +145,6 @@ Check out my personal portfolio with project showcases, visuals, and detailed wo
 
 📎 **Repository:**  
 👉 https://github.com/AntoneskuOleksandr/BulletConveyor
-
 
 ---
 
