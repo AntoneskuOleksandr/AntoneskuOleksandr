@@ -148,18 +148,6 @@ Check out my personal portfolio with project showcases, visuals, and detailed wo
 
 ---
 
-### 🤖 Hide-and-Seek VS AI  
-AI-driven gameplay using:  
-- Enemy vision cones  
-- Behaviour simulation  
-- AI seeking & chasing logic  
-- NavMesh systems  
-
-📎 **Repository:**  
-👉 https://github.com/AntoneskuOleksandr/Hide-and-Seek-VS-AI
-
----
-
 ### 🧠 Stratego-Online  
 Online strategy game using:  
 - Unity Netcode for GameObjects  
@@ -169,6 +157,18 @@ Online strategy game using:
 
 📎 **Repository:**  
 👉 https://github.com/AntoneskuOleksandr/Stratego-Online
+
+---
+
+### 🤖 Hide-and-Seek VS AI  
+AI-driven gameplay using:  
+- Enemy vision cones  
+- Behaviour simulation  
+- AI seeking & chasing logic  
+- NavMesh systems  
+
+📎 **Repository:**  
+👉 https://github.com/AntoneskuOleksandr/Hide-and-Seek-VS-AI
 
 ---
 
