@@ -178,7 +178,7 @@ AI-driven gameplay using:
 antoneskuoleksandr@gmail.com
 
 💼 **LinkedIn:**  
-https://www.linkedin.com/in/oleksandr-antonesku-b2380b265  
+www.linkedin.com/in/oleksandr-antonesku
 
 💬 **Telegram:**  
 https://t.me/OleksAnto  
